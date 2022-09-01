@@ -33,6 +33,23 @@ This repo will be used to deliver FastTrack for Azure sessions to Hybrid custome
     - Review Azure AD integration Admin Center
   - References
 
+[Azure Stack HCI Hardware Catalogue] (https://hcicatalog.azurewebsites.net/#/)
+
+[Azure Stack HCI Hardware Sizing] (https://azurestackhcisolutions.azure.microsoft.com/#/sizer)
+
+[System requirements] (https://docs.microsoft.com/en-us/azure-stack/hci/concepts/system-requirements)
+
+[Physical Network Requirements) (https://docs.microsoft.com/en-us/azure-stack/hci/concepts/physical-network-requirements)
+
+[HCI Cluster Create] (https://docs.microsoft.com/en-us/azure-stack/hci/deploy/deployment-quickstart)
+
+[Get started with Azure Stack HCI and Windows Admin Center] (https://docs.microsoft.com/en-us/azure-stack/hci/get-started)
+
+[Migrate to Azure Stack HCI on same hardware] (https://docs.microsoft.com/en-us/azure-stack/hci/deploy/migrate-cluster-same-hardware)
+
+[Migrate to Azure Stack HCI on new hardware - Azure Stack HCI] (https://docs.microsoft.com/en-us/azure-stack/hci/deploy/migrate-cluster-new-hardware)
+
+
 ## Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
