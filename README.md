@@ -1,14 +1,37 @@
-# Project
+## Objectives
 
-> This repo has been populated by an initial template to help get you started. Please
-> make sure to update the content to build a great experience for community-building.
+This repo will be used to deliver FastTrack for Azure sessions to Hybrid customers in Asia. Technologies include Azure Stack HCI and Azure Arc.
 
-As the maintainer of this project, please make a few updates:
+## Suggested content
 
-- Improving this README.MD file to provide a great experience
-- Updating SUPPORT.MD with content about this project's support experience
-- Understanding the security reporting process in SECURITY.MD
-- Remove this section from the README
+- Building an Azure Stack HCI lab for PoC or Readiness purposes
+  - Step-by-step instructions
+- Azure Stack HCI architecture review
+  - Delivery outline
+    - Review Architecture
+    - Review Hardware configuration
+    - Discuss Architecture changes
+  - References
+- HCI Datacenter Integration
+  - Delivery outline
+    - Discuss Network and Active Directory Integration
+    - Deployment Best Practice 
+    - Windows Admin Center for Azure Stack HCI
+    - Discuss Storage Best Practices
+  - References
+- Azure Stack HCI governance
+  - Delivery outline
+    - CAF & Hybrid
+    - Windows Admin Center and Azure Portal
+    - Naming / Tagging / RBAC & Policy
+    - Cost Management
+  - References
+- Cluster Config and Azure integration Review
+  - Delivery outline
+    - Review deployed cluster config and cluster health
+    - Review Azure AD integration HCI
+    - Review Azure AD integration Admin Center
+  - References
 
 ## Contributing
 
