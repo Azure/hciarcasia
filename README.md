@@ -49,6 +49,10 @@ This repo will be used to deliver FastTrack for Azure sessions to Hybrid custome
 
 [Migrate to Azure Stack HCI on new hardware - Azure Stack HCI] (https://docs.microsoft.com/en-us/azure-stack/hci/deploy/migrate-cluster-new-hardware)
 
+## To check if work is already under way, and recommend/develop if not
+
+- [Azure review-checklist](https://github.com/Azure/review-checklists) package for HCI
+- [Cloud Roles and Operations Management](https://github.com/Azure/cloud-rolesandops) package for HCI
 
 ## Contributing
 
