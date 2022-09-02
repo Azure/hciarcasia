@@ -2,7 +2,7 @@
 
 This repo will be used to deliver FastTrack for Azure sessions to Hybrid customers in Asia. Technologies include Azure Stack HCI and Azure Arc.
 
-## Suggested content
+## Resources by engagement
 
 - Building an Azure Stack HCI lab for PoC or Readiness purposes
   - Step-by-step instructions
@@ -10,6 +10,10 @@ This repo will be used to deliver FastTrack for Azure sessions to Hybrid custome
   - Delivery outline
     - Review Architecture
     - Review Hardware configuration
+      - [Azure Stack HCI Hardware Catalogue](https://hcicatalog.azurewebsites.net/#/)
+      - [Azure Stack HCI Hardware Sizing](https://azurestackhcisolutions.azure.microsoft.com/#/sizer)
+      - [System requirements](https://docs.microsoft.com/en-us/azure-stack/hci/concepts/system-requirements)
+      - [Physical Network Requirements](https://docs.microsoft.com/en-us/azure-stack/hci/concepts/physical-network-requirements)
     - Discuss Architecture changes
   - References
 - HCI Datacenter Integration
@@ -23,31 +27,20 @@ This repo will be used to deliver FastTrack for Azure sessions to Hybrid custome
   - Delivery outline
     - CAF & Hybrid
     - Windows Admin Center and Azure Portal
+      - [Get started with Azure Stack HCI and Windows Admin Center](https://docs.microsoft.com/en-us/azure-stack/hci/get-started)
     - Naming / Tagging / RBAC & Policy
     - Cost Management
   - References
 - Cluster Config and Azure integration Review
   - Delivery outline
+    - [HCI Cluster Create](https://docs.microsoft.com/en-us/azure-stack/hci/deploy/deployment-quickstart)
     - Review deployed cluster config and cluster health
     - Review Azure AD integration HCI
     - Review Azure AD integration Admin Center
   - References
-
-[Azure Stack HCI Hardware Catalogue] (https://hcicatalog.azurewebsites.net/#/)
-
-[Azure Stack HCI Hardware Sizing] (https://azurestackhcisolutions.azure.microsoft.com/#/sizer)
-
-[System requirements] (https://docs.microsoft.com/en-us/azure-stack/hci/concepts/system-requirements)
-
-[Physical Network Requirements) (https://docs.microsoft.com/en-us/azure-stack/hci/concepts/physical-network-requirements)
-
-[HCI Cluster Create] (https://docs.microsoft.com/en-us/azure-stack/hci/deploy/deployment-quickstart)
-
-[Get started with Azure Stack HCI and Windows Admin Center] (https://docs.microsoft.com/en-us/azure-stack/hci/get-started)
-
-[Migrate to Azure Stack HCI on same hardware] (https://docs.microsoft.com/en-us/azure-stack/hci/deploy/migrate-cluster-same-hardware)
-
-[Migrate to Azure Stack HCI on new hardware - Azure Stack HCI] (https://docs.microsoft.com/en-us/azure-stack/hci/deploy/migrate-cluster-new-hardware)
+ - Azure Stack Migration
+  - [Migrate to Azure Stack HCI on same hardware](https://docs.microsoft.com/en-us/azure-stack/hci/deploy/migrate-cluster-same-hardware)
+  - [Migrate to Azure Stack HCI on new hardware - Azure Stack HCI](https://docs.microsoft.com/en-us/azure-stack/hci/deploy/migrate-cluster-new-hardware)
 
 ## To check if work is already under way, and recommend/develop if not
 
