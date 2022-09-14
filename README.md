@@ -5,7 +5,7 @@ This repo will be used to deliver FastTrack for Azure sessions to Hybrid custome
 ## Resources by engagement
 
 - Building an Azure Stack HCI lab for PoC or Readiness purposes
-  - Step-by-step instructions
+  - [Evaluate Azure Stack HCI](https://docs.microsoft.com/en-us/azure-stack/hci/guided-quick-deploy-eval?tabs=cloud-app-admin)
 - Azure Stack HCI architecture review
   - Delivery outline
     - Review Architecture
