@@ -4,8 +4,14 @@ This repo will be used to deliver FastTrack for Azure sessions to Hybrid custome
 
 ## Resources by engagement
 
-- Building an Azure Stack HCI lab for PoC or Readiness purposes
-  - [Evaluate Azure Stack HCI](https://docs.microsoft.com/en-us/azure-stack/hci/guided-quick-deploy-eval?tabs=cloud-app-admin)
+- Building an Azure Stack HCI lab for PoC or Readiness purposes. Two options:
+  - [Evaluate Azure Stack HCI using an Azure VM](https://docs.microsoft.com/en-us/azure-stack/hci/guided-quick-deploy-eval?tabs=cloud-app-admin)
+    - No hardware required
+    - An Azure VM is used as a Hyper-V Host with guest VMs:
+      - 1x VM as the Windows Admin Center
+      - 2x VMs as HCI Cluster Nodes
+  - [VM-based ](https://docs.microsoft.com/en-us/azure-stack/hci/deploy/tutorial-private-forest)
+    - Non-Azure Hyper-V Host
 - Azure Stack HCI architecture review
   - Delivery outline
     - Review Architecture
